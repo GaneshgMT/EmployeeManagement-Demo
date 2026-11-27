@@ -41,3 +41,5 @@ python -m unittest -v
 - Employee records are kept in memory while the application is running. They are cleared when you exit; the application does not save records to a database or file.
 - The application is a basic single-user command-line program, without authentication or a graphical interface.
 - Search checks employee IDs and names; department filtering is available separately through the menu.
+
+This project is used to demonstrate Git and CI/CD.
